@@ -1,0 +1,2 @@
+- PyQt5 5.2.1				- QT na Pythona      
+- Dropbox Core API - python SDK		- Api Dropboxa

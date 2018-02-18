@@ -1,0 +1,1 @@
+pyuic5 test.ui > ui_test.py
