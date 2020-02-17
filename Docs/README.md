@@ -25,7 +25,7 @@ B uses it to encrypt the folder AES key and then, sends it back along with calcu
 A can place their encrypted AES key in the folder on their machine and from now on they are able to encrypt/decrypt files in/from this 
 particular folder.
 
-![Workflow Image](https://github.com/b4ry/EncryptionBox/blob/master/Workflow.jpg)
+![Workflow Image](https://github.com/b4ry/EncryptionBox/blob/master/Docs/Workflow.jpg)
 
 ### Functionalities
 - integrating the application with a DropBox account using generated tokens allowing the application to communicate with DropBox via its API,
