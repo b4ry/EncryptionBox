@@ -17,8 +17,8 @@ import szyfrowanie_aes
 from plik import Plik
 
 #klucze od dropboksa
-app_key = 'rysbak0q8ysrskt'
-app_secret = 'bfq6mr2hx8vbhim'
+app_key = '***'
+app_secret = '***'
 
 #główne okno aplikacji
 class MainWindow(QMainWindow):
